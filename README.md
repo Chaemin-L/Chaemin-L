@@ -32,7 +32,7 @@
 
 ### Experience
 - `2023.06 - 2023.08` **EXEM**, FrontEnd Intern
-- `2023.11 - 2024.02.17` **Depromeet 14th**, FrontEnd Developer
+- `2023.11 - 2024.02` **Depromeet 14th**, FrontEnd Developer
   
 
 <!--
